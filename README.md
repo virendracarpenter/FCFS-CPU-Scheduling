@@ -3,3 +3,8 @@ First come first serve (FCFS) scheduling algorithm simply schedules the jobs acc
 
 # Output
 ![Screenshot](fcfs-output.png)
+#Compile 
+> Open Terminal 
+> Go to the program directory using cd
+> then type:
+> g++ fcfs.cpp Process.cpp Process.h && ./a.out
